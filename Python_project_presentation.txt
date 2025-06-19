@@ -1,0 +1,32 @@
+Project-Python
+CREATION OF A TRAVEL-THEMED MANAGEMENT SYSTEM
+
+Starting from the creation (or import) of an initial travel dataset, this system provides a set of features that allow the user to:
+
+View the list of available trips
+Add a new trip
+Filter trips based on specific characteristics
+Perform advanced filtering based on user-defined criteria
+Edit a trip from the list
+Delete a trip from the list
+View statistics related to the trips in the system
+The user can navigate these features through a main menu (accessible via the menu() function), interacting with the system through keyboard input.
+
+This element management system was designed for end-users such as travel agencies, tour operators, or professionals in the tourism industry.
+
+ITALIAN
+
+CREAZIONE DI UN SISTEMA DI GESTIONE ELEMENTI A TEMA TRAVEL
+
+Partendo dalla creazione (o dall'importazione) di un dataset iniziale di viaggi il sistema permette di accedere ad una serie di funzionalità che ci sconsentono di:
+
+visualizzare i viaggi presenti nel listino
+aggiungere un nuovo viaggio
+filtrare i viaggi in base ad una determinata caratteristica
+filtraggio avanzato a seconda dei criteri scelti dall'utente
+modificare un viaggio della lista
+eliminare un viaggio dalla lista
+visualizzazioni di statistiche sui viaggi in lista
+L'utente potrà navigare tra le varie funzionalità attraverso un menu principale (accessibile tramite il comando menu() ) con la quale potrà interagire tramite input da tastiera.
+
+Il sistema di gestione elementi implementato è stato pensato per un utente utilizzatore che sia un' agenzia di viaggio, tour operator o comunque per coloro che lavorano nel mondo del turismo.
